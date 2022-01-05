@@ -27,6 +27,8 @@ const fetchData = () => {
 };
 
 //sound
+// let audio = new Audio("./sound/bdsound.mp3");
+// console.log("dada", audio.play());
 
 // Animation Timeline
 const animationTimeline = () => {
