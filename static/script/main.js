@@ -26,9 +26,11 @@ const fetchData = () => {
     });
 };
 
-//sound
-// let audio = new Audio("./sound/bdsound.mp3");
-// console.log("dada", audio.play());
+function d(e) {
+  const a = document.querySelector("audio");
+  console.log(a);
+}
+d();
 
 // Animation Timeline
 const animationTimeline = () => {
