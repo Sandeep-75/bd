@@ -3,7 +3,7 @@
   "name": "Manisha",
   "greetingText": "Don’t think of it as getting older, think of it as becoming a classic.",
   "wishText": "I hope you’re treated like the queen you are today, my love 👑! ;)",
-  "imagePath": "/static/images/lydia2.jpeg",
+  "imagePath": "./static/images/lydia2.jpeg",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Happy birthday to my irreplaceable Partner.",
   "sendButtonLabel": "Send",
